@@ -12,6 +12,7 @@ Bamazon is like a only store that allows a user to make purchase of items and re
 ![gif example of project]( https://github.com/welljer/week-12/blob/master/demoCustomer.gif)
 
 The database table we are pulling from 
+
 ![picture of database]( https://github.com/welljer/week-12/blob/master/images/SQL.JPG)
 
 The customer is shown the list of inventoried items and asked the ID that they would like to purchase along with the quantity.
