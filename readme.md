@@ -1,5 +1,5 @@
 # Bamazon
-Bamazon is like a only store that allows a user to make purchase of items and reduces the on hand inventory from the database in realtime.
+Bamazon is like a online store that allows a user to make purchase of items and reduces the on hand inventory from the database in realtime.
 
 ## Technology and packages used
 * [node.js](https://nodejs.org/en/docs/)
